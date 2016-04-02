@@ -16,4 +16,9 @@ fffff
 =======
 
 the last one
+<<<<<<< HEAD
 >>>>>>> origin/master
+=======
+
+dsafdasfasdfa
+>>>>>>> b8024f8534313db05e4df962acf127c6a5657a5c
