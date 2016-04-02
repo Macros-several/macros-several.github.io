@@ -11,4 +11,9 @@ dddddddddddddd
 =======
 
 fffff
+<<<<<<< HEAD
 >>>>>>> refs/remotes/origin/master
+=======
+
+the last one
+>>>>>>> origin/master
